@@ -32,7 +32,6 @@ Expanding mobile development skills in Kotlin
 
 📫 Connect with Me
 
-LinkedIn: www.linkedin.com/in/
-yared-negassi
+LinkedIn: www.linkedin.com/in/yared-negassi
 Email: yarednegassi@gmail.com
 Feel free to explore my repositories and contribute! 🚀
