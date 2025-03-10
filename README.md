@@ -6,7 +6,7 @@ Hello! I'm a passionate web and mobile developer currently working with:
 
 Web Development: HTML, CSS, React, XAMPP, PHP, MySQL
 
-Mobile Development: Java (Android Studio), Android SDK
+Mobile App Development: Java (Android Studio), Android SDK
 
 Development Tools: Visual Studio, VS Code
 
@@ -32,6 +32,7 @@ Expanding mobile development skills in Kotlin
 
 📫 Connect with Me
 
-LinkedIn: Yared Negassi 
+LinkedIn: www.linkedin.com/in/
+yared-negassi
 Email: yarednegassi@gmail.com
 Feel free to explore my repositories and contribute! 🚀
