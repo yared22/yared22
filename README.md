@@ -1,14 +1,14 @@
-👋 Welcome to My GitHub Profile
+👋 Welcome to My Profile
 
 🚀 About Me
 
 Hello! I'm a passionate web and mobile developer currently working with:
 
-Web Development: HTML, CSS, React, XAMPP, PHP, MySQL
+Web Development: HTML, CSS, JavaScript, PHP, MySQL
 
 Mobile App Development: Java (Android Studio), Android SDK
 
-Development Tools: Visual Studio, VS Code
+Development Tools: Visual Studio, VS Code, Android Studio
 
 I am continuously learning and building projects that enhance user experience and solve real-world problems.
 
