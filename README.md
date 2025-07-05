@@ -22,6 +22,13 @@ Here are some of my projects:
 
 📦 Inventory Management System – A system for managing stock efficiently using C#.
 
+📘 Bok Books – A sleek eBook platform for discovering and reading digital books.
+
+🏨 OfficeLink – A coworking space booking platform for freelancers and small teams.
+
+💊 DoseBuddy – A mobile medication reminder app built with Android Studio and Java to help users stay on track with their prescriptions.
+
+
 🌱 What I'm Learning
 
 Advanced React and state management
