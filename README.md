@@ -4,7 +4,7 @@
 
 Hello! I'm a passionate web and mobile developer currently working with:
 
-Web Development: HTML, CSS, JavaScript, PHP, MySQL
+Web Development: HTML, CSS, JavaScript, Vue3, Nuxt4 ,PHP ,  MySQL
 
 Mobile App Development: Java (Android Studio), Android SDK
 
