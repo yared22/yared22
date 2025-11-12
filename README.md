@@ -4,7 +4,7 @@
 
 Hello! I'm a passionate Full-Stack Web and Mobile developer currently working with:
 
-Web Development: HTML, CSS, JavaScript, Vue3, Nuxt4, PHP, MySQL
+Web Development: HTML, CSS, JavaScript, Vue3, Nuxt, PHP, MySQL
 
 Mobile App Development: Java (Android Studio), Android SDK
 
