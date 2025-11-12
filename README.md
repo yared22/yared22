@@ -2,13 +2,13 @@
 
 🚀 About Me
 
-Hello! I'm a passionate web and mobile developer currently working with:
+Hello! I'm a passionate Full-Stack Web and Mobile developer currently working with:
 
 Web Development: HTML, CSS, JavaScript, Vue3, Nuxt4, PHP, MySQL
 
 Mobile App Development: Java (Android Studio), Android SDK
 
-Development Tools: Visual Studio, VS Code, Android Studio
+Development Tools:VS Code, Android Studio
 
 I am continuously learning and building projects that enhance user experience and solve real-world problems.
 
@@ -22,7 +22,7 @@ Here are some of my projects:
 
 📦 Inventory Management System – A system for managing stock efficiently using C#.
 
-📘 Bok Books – A sleek eBook platform for discovering and reading digital books.
+📦 Inventory Management System – A system for managing stock efficiently using React.
 
 🏨 OfficeLink – A coworking space booking platform for freelancers and small teams.
 
