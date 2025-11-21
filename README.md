@@ -1,44 +1,21 @@
-👋 Welcome to My Profile
-
-🚀 About Me
-
-Hello! I'm a passionate Full-Stack Web and Mobile developer currently working with:
-
-Web Development: HTML, CSS, JavaScript, Vue3, Nuxt, PHP, MySQL
-
-Mobile App Development: Java (Android Studio), Android SDK
-
-Development Tools:VS Code, Android Studio
-
-I am continuously learning and building projects that enhance user experience and solve real-world problems.
-
-💻 Projects
-
-Here are some of my projects:
-
-📚 Nonsense Bookstore – An online bookstore offering a wide range of books and fostering a community of readers.
-
-🎨 Magical Art Gallery – A digital space showcasing inspiring and beautiful artworks.
-
-📦 Inventory Management System – A system for managing stock efficiently using C#.
-
-📦 Inventory Management System – A system for managing stock efficiently using React.
-
-🏨 OfficeLink – A coworking space booking platform for freelancers and small teams.
-
-💊 DoseBuddy – A mobile medication reminder app built with Android Studio and Java to help users stay on track with their prescriptions.
+# 💫 About Me:
+🛠️ I’m currently working on: Full-stack web applications, data-driven dashboards, and real-world software solutions.<br>🤝 I’m looking to collaborate on: Vue/Nuxt projects, backend systems, Flutter apps, and mobile-first platforms.<br>🌱 I’m currently learning: Flutter, Modern frontend frameworks, database optimization, and scalable system design.<br>💬 Ask me about: Full-stack development, Vue 3, Nuxt, Node.js, PHP, MySQL, REST APIs, UI design, Android development.<br>⚡ Fun fact: I enjoy transforming everyday problems into elegant digital products.
 
 
-🌱 What I'm Learning
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yared222) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yarednegassi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yared-negassi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yarednegassi@gmail.com) 
 
-Advanced React and state management
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yared22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yared22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yared22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Backend development with Node.js
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yared22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Expanding mobile development skills in Kotlin
+---
+[![](https://visitcount.itsvg.in/api?id=yared22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📫 Connect with Me
-
-LinkedIn: www.linkedin.com/in/yared-negassi
-Email: yarednegassi@gmail.com
-Feel free to explore my repositories and contribute! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
