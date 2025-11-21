@@ -1,6 +1,9 @@
 # 💫 About Me:
 🛠️ I’m currently working on: Full-stack web applications, data-driven dashboards, and real-world software solutions.<br>🤝 I’m looking to collaborate on: Vue/Nuxt projects, backend systems, Flutter apps, and mobile-first platforms.<br>🌱 I’m currently learning: Flutter, Modern frontend frameworks, database optimization, and scalable system design.<br>💬 Ask me about: Full-stack development, Vue 3, Nuxt, Node.js, PHP, MySQL, REST APIs, UI design, Android development.<br>⚡ Fun fact: I enjoy transforming everyday problems into elegant digital products.
 
+## 💼 Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://yarednegassi.vercel.app/)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yared222) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yarednegassi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yared-negassi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yarednegassi@gmail.com) 
