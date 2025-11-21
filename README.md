@@ -2,7 +2,8 @@
 🛠️ I’m currently working on: Full-stack web applications, data-driven dashboards, and real-world software solutions.<br>🤝 I’m looking to collaborate on: Vue/Nuxt projects, backend systems, Flutter apps, and mobile-first platforms.<br>🌱 I’m currently learning: Flutter, Modern frontend frameworks, database optimization, and scalable system design.<br>💬 Ask me about: Full-stack development, Vue 3, Nuxt, Node.js, PHP, MySQL, REST APIs, UI design, Android development.<br>⚡ Fun fact: I enjoy transforming everyday problems into elegant digital products.
 
 ## 💼 Portfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://yarednegassi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-black?style=for-the-badge&logo=vercel&logoColor=white)](https://yarednegassi.vercel.app/)
+
 
 
 ## 🌐 Socials:
